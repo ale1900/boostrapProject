@@ -4,6 +4,10 @@ html {
   scroll-behavior: smooth;
 }
 
+body{
+  font-family: "Montserrat", sans-serif;
+}
+
 .navbar-brand {
   background-image: url("img/Logotipo.png");
   background-position: center;
