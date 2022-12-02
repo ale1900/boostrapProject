@@ -1,11 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800;1,900&display=swap");
 
 html {
-  scroll-behavior: smooth;
-}
-
-body{
-  font-family: "Montserrat", sans-serif;
+  scroll-behavior: smooth !important;
 }
 
 .navbar-brand {
@@ -40,7 +36,7 @@ body{
 }
 
 .navbar-nav{
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif !important;
   margin-right: 30px;
 }
 
