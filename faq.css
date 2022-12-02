@@ -2,6 +2,7 @@
 
 html {
   scroll-behavior: smooth;
+  font-family: "Montserrat", sans-serif !important;
 }
 
 body {
@@ -24,6 +25,10 @@ body {
 }
 
 .navbar-nav li a{
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.links li a{
   font-family: "Montserrat", sans-serif !important;
 }
 
